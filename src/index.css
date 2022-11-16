@@ -1,0 +1,16 @@
+.App {
+  background-image: url("./componets/img/paisagem2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 650px;
+  width: 1360px;
+}
+
+@media (max-width: 501px) {
+  .App {
+    background-image: url("./componets/img/paisagem2.jpg");
+    min-width: 540px;
+    height: 650px;
+  }
+}
