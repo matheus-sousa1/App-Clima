@@ -1,12 +1,13 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  height: 650px;
+  height: 900px;
   width: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  flex-wrap: wrap;
   color: white;
   font-weight: 600;
 `;

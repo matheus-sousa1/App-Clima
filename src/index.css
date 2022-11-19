@@ -3,8 +3,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 650px;
+  height: 100%;
   width: 1360px;
+  flex-wrap: wrap;
+  display: flex;
 }
 
 @media (max-width: 501px) {
