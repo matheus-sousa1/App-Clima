@@ -6,4 +6,4 @@ esse é um aplicativo de clima
 
 É uma página de vendas geralmente usada por empreendedores digitais
 <br/>
-veja:https://meu-clima.netlify.app/
+veja: https://meu-clima.netlify.app/
